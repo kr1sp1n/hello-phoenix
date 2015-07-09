@@ -1,4 +1,7 @@
-# HelloPhoenix
+# Hello Phoenix
+
+My first steps into the Phoenix framework.
+
 
 To start your new Phoenix application:
 
